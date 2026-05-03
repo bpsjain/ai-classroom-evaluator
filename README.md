@@ -30,5 +30,17 @@ pip install -r requirements.txt
 streamlit run app.py
 ________________________________________
 Note
-This project focuses on prompt design and evaluation logic rather than complex model training.
+This project focuses on prompt design and evaluation logic rather than complex model training
+
+
+
+## Sample Output
+
+![App Screenshot](screenshot1.png)
+
+## Sample Output
+
+![App Screenshot](screenshot2.png)
+
+Add screenshot to README
 
