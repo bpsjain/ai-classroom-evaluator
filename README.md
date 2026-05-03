@@ -42,5 +42,5 @@ This project focuses on prompt design and evaluation logic rather than complex m
 
 ![App Screenshot](screenshot2.png)
 
-Add screenshot to README
+
 
