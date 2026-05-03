@@ -1,13 +1,13 @@
 AI Competency-Based Classroom Evaluator (CBSE Science)
-AI-assisted tool to help teachers evaluate student answers using competency-based assessment.
+AI-assisted tool for competency-based evaluation of student answers aligned with Bloom’s Taxonomy.
 
 What this project does
-•	Evaluates student answers
-•	Identifies expected vs achieved understanding level
-•	Extracts evidence from the answer
-•	Highlights learning gaps
-•	Suggests improvement
-________________________________________
+- Evaluates student answers  
+- Identifies expected vs achieved understanding level  
+- Extracts evidence from the answer  
+- Highlights learning gaps  
+- Suggests improvement
+  
 Features
 •	Demo Mode (no API required)
 •	AI Mode (dynamic evaluation using OpenAI)
