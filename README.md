@@ -1,3 +1,6 @@
+
+🚀 Live App: [Click here to try it](https://ai-classroom-evaluator.streamlit.app)
+
 AI Competency-Based Classroom Evaluator (CBSE Science)
 AI-assisted tool for competency-based evaluation of student answers aligned with Bloom’s Taxonomy.
 
